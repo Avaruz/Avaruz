@@ -1,13 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m James Montemagno
-- 🏢 I work at Microsoft where I help build and support developer communities
-- 🌱 I blog about coding & life: https://montemagno.com
-- 🎙 I have several podcasts: https://mergeconflict.fm, https://blunders.fm, https://www.dotnetmauipodcast.com/
-- 🦜 I’m on Twitter https://twitter.com/jamesmontemagno
-- 🎥 I make fun coding videos & stream at https://youtube.com/jamesmontemagno
-- 📫 How to reach me: https://www.montemagno.com/about/
+- 🔭 I’m Adhemar Soria Galvarro V.
+- 🏢 I work at Megalabs Bolivia SRL where I help to another people to do their jobs...
+- 🦜 I’m on Twitter https://twitter.com/adhemar_sgv
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: I love you
 
 ![Adhemar's github stats](https://github-readme-stats.vercel.app/api?username=avaruz&show_icons=true)
