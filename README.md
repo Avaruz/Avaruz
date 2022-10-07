@@ -1,16 +1,13 @@
 ### Hi there 👋
 
-<!--
-**Avaruz/Avaruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m James Montemagno
+- 🏢 I work at Microsoft where I help build and support developer communities
+- 🌱 I blog about coding & life: https://montemagno.com
+- 🎙 I have several podcasts: https://mergeconflict.fm, https://blunders.fm, https://www.dotnetmauipodcast.com/
+- 🦜 I’m on Twitter https://twitter.com/jamesmontemagno
+- 🎥 I make fun coding videos & stream at https://youtube.com/jamesmontemagno
+- 📫 How to reach me: https://www.montemagno.com/about/
+- 😄 Pronouns: he/him/his
+- ⚡ Fun fact: I love you
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Adhemar's github stats](https://github-readme-stats.vercel.app/api?username=avaruz&show_icons=true)
