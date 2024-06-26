@@ -2,7 +2,7 @@
 
 - 🔭 I’m Adhemar Soria Galvarro V.
 - 🏢 I work at Megalabs Bolivia SRL where I help to another people to do their jobs...
-- 🦜 I’m on Twitter [https://x.com/adhemar_sgv]
+- 🦜 I’m on X [https://x.com/adhemar_sgv]
 - 😄 Pronouns: he/him/his
   
 
