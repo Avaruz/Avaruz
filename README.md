@@ -7,3 +7,5 @@
   
 
 ![Adhemar's github stats](https://github-readme-stats.vercel.app/api?username=avaruz&show_icons=true)
+
+<a href="https://app.daily.dev/adhemarsgv"><img src="https://api.daily.dev/devcards/v2/kCaMO9J7xNmQ2PlJScIs0.png?r=y0d&type=wide" width="652" alt="Adhemar's Dev Card"/></a>
